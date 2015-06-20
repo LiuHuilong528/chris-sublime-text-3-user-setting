@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+z"], "command": "alignment" },
+    { "keys": ["alt+p"], "command": "autoprefixer" }
+]

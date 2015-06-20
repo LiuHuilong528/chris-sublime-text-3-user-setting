@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"Color Highlighter",
+		"DocBlockr",
+		"JsFormat",
+		"Material Theme",
+		"Minifier",
+		"Package Control",
+		"PHP Companion",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php"
+	]
+}
