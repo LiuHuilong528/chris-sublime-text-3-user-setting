@@ -6,9 +6,11 @@
 	[
 		"Alignment",
 		"Autoprefixer",
+		"Blade Snippets",
 		"Color Highlighter",
 		"DocBlockr",
 		"JsFormat",
+		"Laravel Blade Highlighter",
 		"Material Theme",
 		"Minifier",
 		"Package Control",
